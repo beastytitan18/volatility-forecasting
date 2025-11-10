@@ -1,0 +1,5 @@
+polars
+lightgbm
+numpy
+scipy
+joblib
